@@ -73,5 +73,5 @@ main()
 	exit 1
 }
 
-main >> .adc.log
+main
 
